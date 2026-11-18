@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI-Native Design"
+  short_description: "Explore, prototype, and validate product design ideas"
+  default_prompt: "Use $ai-native-design to explore and validate design directions for this project."
